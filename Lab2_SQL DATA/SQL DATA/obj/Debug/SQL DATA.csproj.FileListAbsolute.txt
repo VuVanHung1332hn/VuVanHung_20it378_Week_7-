@@ -1,0 +1,11 @@
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\bin\Debug\SQL DATA.exe.config
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\bin\Debug\SQL DATA.exe
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\bin\Debug\SQL DATA.pdb
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL DATA.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL DATA.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL_DATA.Form1.resources
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL_DATA.Properties.Resources.resources
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL DATA.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL DATA.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL DATA.exe
+C:\Users\DELL\source\repos\SQL DATA\SQL DATA\obj\Debug\SQL DATA.pdb

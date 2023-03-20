@@ -1,0 +1,15 @@
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\bin\Debug\SQL Connection.exe.config
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\bin\Debug\SQL Connection.exe
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\bin\Debug\SQL Connection.pdb
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL Connection.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL Connection.csproj.SuggestedBindingRedirects.cache
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL_Connection.Form1.resources
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL_Connection.Properties.Resources.resources
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL Connection.csproj.GenerateResource.cache
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL Connection.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL Connection.exe
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL Connection.pdb
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL_Connection.NhapInfo.resources
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL_Connection.ListStudent.resources
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL_Connection.Form3.resources
+C:\Users\DELL\source\repos\SQL Connection\SQL Connection\obj\Debug\SQL_Connection.Form4.resources
